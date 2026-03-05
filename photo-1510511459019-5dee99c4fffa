@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <title>Web Filter Violation</title>
+ <style type="text/css">
+ html, body { margin: 0; padding: 0; font-family: Verdana, Arial, sans-serif; font-size: 10pt; }
+ h1, h2 { height: 82px; text-indent: -999em; margin: 0; padding: 0; margin: 0; }
+ div { margin: 0; padding: 0; }
+ div.header { background: url(http://url.fortinet.net:8008/XX/YY/ZZ/CI/MGPGHGPGPFGHCDPFGGOGFGEH) 0 0 repeat-x; height: 82px; }
+ div.header h1 { background: url('data:image/png;base64, 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') 0 0 no-repeat; }
+ div.header h2 { background: url(http://url.fortinet.net:8008/XX/YY/ZZ/CI/MGPGHGPGPFGHCDPFGGOGFGEH) 0 -82px no-repeat; width: 160px; float: right; }
+ div.sidebar { width: 195px; height: 200px; float: left; }
+ div.main { padding: 5px; margin-left: 195px; }
+ div.buttons { margin-top: 30px; text-align: right; }
+ h3 { margin: 36px 0; font-size: 16pt; }
+ .blocked h3 { color: #c00; }
+ .authenticate h3 { color: #36c; }
+ h2.fgd_icon { background: url(http://url.fortinet.net:8008/XX/YY/ZZ/CI/MGPGHGPGPFGHCDPFGGOGFGEH) 0 -166px repeat-x; width: 90px; height: 92px; margin: 48px auto; }
+ .blocked h2.fgd_icon { background-position: 0 -166px; }
+ .authenticate h2.fgd_icon { background-position: -89px -166px; }
+ form { width: 300px; margin: 30px 0; }
+ label { display: block; width: 300px; margin: 5px 0; line-height: 25px; }
+ label input { width: 200px; border: 1px solid #7f9db9; height: 20px; float: right; }
+ </style>
+</head>
+<body class="blocked">
+ <div class="header">
+ <h2>Powered By Fortinet</h2>
+ <h1>FortiGuard Web Filtering</h1>
+ </div>
+ <div class="sidebar">
+ <h2 class="fgd_icon">blocked</h2>
+ </div>
+ <div class="main">
+<h3>Diese Webseite wurde blockiert!</h3>
+<div class="notice">
+ <p>Sie haben versucht eine Webseite aufzurufen, deren Inhalt nicht der Richtlinie Ihrer Organisation entspricht.</p>
+ <p>
+ URL: images.unsplash.com/?auto=format&fit=crop&q=80&w=800<br />
+ Category: File Sharing and Storage
+ <br/>Client IP: 10.123.21.118
+ <br/>Server IP: 146.75.118.208
+ <br/>User name: tuescheb
+ <br/>Group name: UG-LDAP-FW123
+ </p>
+</div>
+ </div>
+</body>
+</html>
